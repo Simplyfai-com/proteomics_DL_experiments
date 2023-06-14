@@ -1,8 +1,8 @@
 # proteomics_DL_experiments
 
-Tasks
-  Retention time prediction 
-  Fragment intensity prediction 
+Tasks:
+  	Retention time prediction 
+  	Fragment intensity prediction 
   
 Retention time prediction
 
