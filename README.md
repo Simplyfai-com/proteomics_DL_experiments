@@ -22,7 +22,7 @@ Fragment intensity prediction
 	    Collision energy and charge state latent embedding is fused with the peptide sequence latent features using shift and scale operations as opposed to 	     the scale only method used in the prosit paper 
 	    Learned latent arrays are used to model the break points of a peptide sequence and they attend to the modulated peptide sequence features using 		    cross attention method applied iteratively. This can be regarded as performing fully end to end clustering of the modulated peptide features with               the learned latent vectors as the clustering centers.
     
-  	Evaluation metric: angular distance 
+  	  Evaluation metric: angular distance 
 
 	
 
