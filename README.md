@@ -24,5 +24,7 @@ Fragment intensity prediction
     
   	  Evaluation metric: angular distance 
 
-	
+Pretrained Models
+	iRT - https://drive.google.com/file/d/1B7nGunpdBOa2Wsawko39O-pUqVP9_fXf/view?usp=sharing
+ 	Fragment - 
 
